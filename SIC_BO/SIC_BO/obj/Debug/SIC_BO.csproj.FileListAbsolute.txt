@@ -1,0 +1,11 @@
+C:\Users\ur11221\source\repos\SIC_BO\SIC_BO\bin\Debug\SIC_BO.exe.config
+C:\Users\ur11221\source\repos\SIC_BO\SIC_BO\bin\Debug\SIC_BO.exe
+C:\Users\ur11221\source\repos\SIC_BO\SIC_BO\bin\Debug\SIC_BO.pdb
+C:\Users\ur11221\source\repos\SIC_BO\SIC_BO\obj\Debug\SIC_BO.csproj.AssemblyReference.cache
+C:\Users\ur11221\source\repos\SIC_BO\SIC_BO\obj\Debug\SIC_BO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ur11221\source\repos\SIC_BO\SIC_BO\obj\Debug\SIC_BO.Form1.resources
+C:\Users\ur11221\source\repos\SIC_BO\SIC_BO\obj\Debug\SIC_BO.Properties.Resources.resources
+C:\Users\ur11221\source\repos\SIC_BO\SIC_BO\obj\Debug\SIC_BO.csproj.GenerateResource.cache
+C:\Users\ur11221\source\repos\SIC_BO\SIC_BO\obj\Debug\SIC_BO.csproj.CoreCompileInputs.cache
+C:\Users\ur11221\source\repos\SIC_BO\SIC_BO\obj\Debug\SIC_BO.exe
+C:\Users\ur11221\source\repos\SIC_BO\SIC_BO\obj\Debug\SIC_BO.pdb

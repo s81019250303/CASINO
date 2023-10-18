@@ -1,0 +1,17 @@
+C:\Users\ur11221\source\repos\Baccarat\Baccarat\bin\Debug\net6.0-windows\Baccarat.exe
+C:\Users\ur11221\source\repos\Baccarat\Baccarat\bin\Debug\net6.0-windows\Baccarat.deps.json
+C:\Users\ur11221\source\repos\Baccarat\Baccarat\bin\Debug\net6.0-windows\Baccarat.runtimeconfig.json
+C:\Users\ur11221\source\repos\Baccarat\Baccarat\bin\Debug\net6.0-windows\Baccarat.dll
+C:\Users\ur11221\source\repos\Baccarat\Baccarat\bin\Debug\net6.0-windows\Baccarat.pdb
+C:\Users\ur11221\source\repos\Baccarat\Baccarat\obj\Debug\net6.0-windows\Baccarat.csproj.AssemblyReference.cache
+C:\Users\ur11221\source\repos\Baccarat\Baccarat\obj\Debug\net6.0-windows\Baccarat.Form1.resources
+C:\Users\ur11221\source\repos\Baccarat\Baccarat\obj\Debug\net6.0-windows\Baccarat.csproj.GenerateResource.cache
+C:\Users\ur11221\source\repos\Baccarat\Baccarat\obj\Debug\net6.0-windows\Baccarat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ur11221\source\repos\Baccarat\Baccarat\obj\Debug\net6.0-windows\Baccarat.AssemblyInfoInputs.cache
+C:\Users\ur11221\source\repos\Baccarat\Baccarat\obj\Debug\net6.0-windows\Baccarat.AssemblyInfo.cs
+C:\Users\ur11221\source\repos\Baccarat\Baccarat\obj\Debug\net6.0-windows\Baccarat.csproj.CoreCompileInputs.cache
+C:\Users\ur11221\source\repos\Baccarat\Baccarat\obj\Debug\net6.0-windows\Baccarat.dll
+C:\Users\ur11221\source\repos\Baccarat\Baccarat\obj\Debug\net6.0-windows\refint\Baccarat.dll
+C:\Users\ur11221\source\repos\Baccarat\Baccarat\obj\Debug\net6.0-windows\Baccarat.pdb
+C:\Users\ur11221\source\repos\Baccarat\Baccarat\obj\Debug\net6.0-windows\Baccarat.genruntimeconfig.cache
+C:\Users\ur11221\source\repos\Baccarat\Baccarat\obj\Debug\net6.0-windows\ref\Baccarat.dll
