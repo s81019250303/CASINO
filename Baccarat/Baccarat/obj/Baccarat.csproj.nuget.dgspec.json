@@ -1,28 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ur11221\\source\\repos\\Baccarat\\Baccarat\\Baccarat.csproj": {}
+    "D:\\Proj\\CASINO\\Baccarat\\Baccarat\\Baccarat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ur11221\\source\\repos\\Baccarat\\Baccarat\\Baccarat.csproj": {
+    "D:\\Proj\\CASINO\\Baccarat\\Baccarat\\Baccarat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ur11221\\source\\repos\\Baccarat\\Baccarat\\Baccarat.csproj",
+        "projectUniqueName": "D:\\Proj\\CASINO\\Baccarat\\Baccarat\\Baccarat.csproj",
         "projectName": "Baccarat",
-        "projectPath": "C:\\Users\\ur11221\\source\\repos\\Baccarat\\Baccarat\\Baccarat.csproj",
-        "packagesPath": "C:\\Users\\ur11221\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ur11221\\source\\repos\\Baccarat\\Baccarat\\obj\\",
+        "projectPath": "D:\\Proj\\CASINO\\Baccarat\\Baccarat\\Baccarat.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Proj\\CASINO\\Baccarat\\Baccarat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ur11221\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -49,7 +49,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -61,7 +62,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
